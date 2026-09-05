@@ -11,7 +11,7 @@
 | **Kaynak depo** | [GenAI-Security-Project/GenAI-LLM-Top10](https://github.com/GenAI-Security-Project/GenAI-LLM-Top10) |
 | **Lisans** | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.tr) — orijinal ve bu çeviri aynı lisansa tabidir |
 | **Çeviri** | [Neveratech](https://neveratech.com) · Barselona |
-| **Durum** | 🚧 Devam ediyor — 3/14 bölüm çevrildi, aşağıdaki tabloya bakın |
+| **Durum** | ✅ Tamamlandı — ana metnin tamamı çevrildi (5 Eylül 2026) |
 
 ## Yapılan değişiklikler
 
@@ -27,17 +27,23 @@ olduğundan korunmuş, Türkçe karşılıkları yanlarında verilmiştir.
 | [Proje Liderlerinden Mektup](2026/00-proje-liderlerinden-mektup.md) | — | ✅ |
 | [2026'da Neler Değişti](2026/01-2026da-neler-degisti.md) | — | ✅ |
 | [LLM01:2026 Prompt Injection](2026/LLM01-prompt-injection.md) | Komut Enjeksiyonu | ✅ |
-| LLM02:2026 Sensitive Information Disclosure | Hassas Bilgi İfşası | ⏳ |
-| LLM03:2026 Excessive Agency | Aşırı Yetki | ⏳ |
-| LLM04:2026 Supply Chain | Tedarik Zinciri | ⏳ |
-| LLM05:2026 Data and Model Poisoning | Veri ve Model Zehirlenmesi | ⏳ |
-| LLM06:2026 Unbounded Consumption | Sınırsız Tüketim | ⏳ |
-| LLM07:2026 Misinformation | Yanlış Bilgi | ⏳ |
-| LLM08:2026 Hidden Context Exposure | Gizli Bağlam İfşası | ⏳ |
-| LLM09:2026 Vector and Embedding Weaknesses | Vektör ve Gömme Zafiyetleri | ⏳ |
-| LLM10:2026 Improper Output Handling | Hatalı Çıktı İşleme | ⏳ |
-| Ek A: Çerçeve Eşlemeleri | — | ⏳ |
-| Ek B: LLM Uygulama Mimarisi ve Tehdit Modelleme | — | ⏳ |
+| [LLM02:2026 Sensitive Information Disclosure](2026/LLM02-sensitive-information-disclosure.md) | Hassas Bilgi İfşası | ✅ |
+| [LLM03:2026 Excessive Agency](2026/LLM03-excessive-agency.md) | Aşırı Yetki | ✅ |
+| [LLM04:2026 Supply Chain](2026/LLM04-supply-chain.md) | Tedarik Zinciri | ✅ |
+| [LLM05:2026 Data and Model Poisoning](2026/LLM05-data-and-model-poisoning.md) | Veri ve Model Zehirlenmesi | ✅ |
+| [LLM06:2026 Unbounded Consumption](2026/LLM06-unbounded-consumption.md) | Sınırsız Tüketim | ✅ |
+| [LLM07:2026 Misinformation](2026/LLM07-misinformation.md) | Yanlış Bilgi | ✅ |
+| [LLM08:2026 Hidden Context Exposure](2026/LLM08-hidden-context-exposure.md) | Gizli Bağlam İfşası | ✅ |
+| [LLM09:2026 Vector and Embedding Weaknesses](2026/LLM09-vector-and-embedding-weaknesses.md) | Vektör ve Gömme Zafiyetleri | ✅ |
+| [LLM10:2026 Improper Output Handling](2026/LLM10-improper-output-handling.md) | Hatalı Çıktı İşleme | ✅ |
+| [Ek A: Çerçeve Eşlemeleri](2026/ek-a-cerceve-eslemeleri.md) | — | ✅ * |
+| [Ek B: Mimari ve Tehdit Modelleme](2026/ek-b-mimari-ve-tehdit-modelleme.md) | — | ✅ * |
+
+\* Ek A'da çerçeve bazlı ayrıntılı eşleme tablolarındaki resmî öge kimlikleri
+(MITRE/CWE/NIST kodları) çapraz referans bütünlüğü için çevrilmemiştir; Ek B orijinalde
+yalnızca görsel şemalardan oluşur. Kaynakça (References) bölümü İngilizce akademik
+atıflardan oluştuğundan çevrilmemiştir; her dosyanın sonunda orijinale yönlendirme
+vardır.
 
 ## Katkı
 
