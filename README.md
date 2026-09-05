@@ -1,3 +1,10 @@
+**🇬🇧 English:** This repository contains the unofficial Turkish community
+translation of the [OWASP Top 10 for LLM Applications 2026](https://genai.owasp.org/resource/owasp-genai-llm-top-10-2026/),
+maintained by [Neveratech](https://neveratech.com). Not endorsed or reviewed
+by OWASP; the English original is authoritative. Licensed CC BY-SA 4.0,
+same as the source. For the original document and other languages, see the
+[official OWASP repository](https://github.com/GenAI-Security-Project/GenAI-LLM-Top10).
+
 # OWASP GenAI LLM Top 10 — 2026 (Türkçe Çeviri)
 
 > **Gayriresmî topluluk çevirisidir.** Bu depo, OWASP GenAI Security Project tarafından
