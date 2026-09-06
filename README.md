@@ -54,6 +54,14 @@ vardır.
 
 ## Katkı
 
+## Çeviri Süreci
+
+İlk çeviri, Claude (Anthropic) desteğiyle üretilmiştir; terminoloji kararları
+(bkz. [SOZLUK.md](SOZLUK.md)) ve teknik doğruluk denetimi Neveratech tarafından
+yürütülmektedir. Denetim turu madde madde ilerlemekte, düzeltmeler commit
+geçmişinden izlenebilmektedir. Gözden kaçan hata veya pürüz için issue/PR
+memnuniyetle karşılanır.
+
 Çeviri hatası veya terminoloji önerisi için issue açabilir ya da doğrudan PR
 gönderebilirsiniz. Terminoloji tercihlerimiz için [SOZLUK.md](SOZLUK.md) dosyasına bakın.
 
