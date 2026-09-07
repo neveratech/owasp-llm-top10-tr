@@ -29,8 +29,8 @@ olduğundan korunmuş, Türkçe karşılıkları yanlarında verilmiştir.
 
 ## İçindekiler
 
-| Bölüm | Türkçe karşılık | Durum |
-|---|---|---|
+| Bölüm |
+|---|
 | [Proje Liderlerinden Mektup](2026/00-proje-liderlerinden-mektup.md) | — | ✅ |
 | [2026'da Neler Değişti](2026/01-2026da-neler-degisti.md) | — | ✅ |
 | [LLM01:2026 Prompt Injection](2026/LLM01-prompt-injection.md) | Komut Enjeksiyonu | ✅ |
